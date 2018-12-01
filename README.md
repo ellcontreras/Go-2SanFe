@@ -1,4 +1,5 @@
 # go2-sanfe
+PWA for a portal to give information about a city or town
 
 ## Project setup
 ```
