@@ -4,7 +4,7 @@
             <h2 class="subtitle is-2">
                 Rutas
             </h2>
-            <img class="image" src="../assets/routes.png" alt="">
+            <img class="image" src="http://iperegrinos.com/wp-content/uploads/camino-de-santiago-semana-santa-1.jpg" alt="">
         </div>
     </div>
 </template>
