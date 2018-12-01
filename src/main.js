@@ -6,6 +6,11 @@ import './registerServiceWorker'
 
 Vue.config.productionTip = false
 
+import 'bulma/css/bulma.min.css'
+
+import VueCarousel from 'vue-carousel';
+Vue.use(VueCarousel);
+
 new Vue({
   router,
   store,
