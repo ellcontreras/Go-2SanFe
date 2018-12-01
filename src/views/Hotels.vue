@@ -5,10 +5,10 @@
         <div class="card">
             <div class="card-content has-text-centered">
                 <div class="column is-3">
-                    <img src="../assets/imagen8.jpg">
+                    <img src="https://q-ec.bstatic.com/images/hotel/max1024x768/468/46871800.jpg">
                 </div>
                 <div class="column is-9">
-                    <p><b>Hotel La Luz</b></p>
+                    <p><b>Hotel Cezar</b></p>
                     <p><b>Precio: </b>$250 la noche.</p>
                 </div>
             </div>
